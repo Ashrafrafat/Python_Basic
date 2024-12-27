@@ -6,7 +6,7 @@ try:
 
 except ZeroDivisionError:
     print("Error: Division by zero!")
-
+#For the Test purpose
 except ValueError:
     print("Error: Invalid input. Please enter a number.")
 
